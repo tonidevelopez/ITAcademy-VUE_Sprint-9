@@ -1,4 +1,4 @@
-# itacademy-vue_sprint-8
+# Videogames Catalogue
 
 ## Project setup
 ```
